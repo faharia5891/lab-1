@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
        
        Scanner sc = new Scanner(System.in);
-       String tanvir= sc.nextLine();
+       String faharia= sc.nextLine();
        
        System.out.println(tanvir);
        
